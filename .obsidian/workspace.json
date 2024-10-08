@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "3a76b4128a8b9c0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86a7cedadb681fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa2bbd86c310dc71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timeline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2b1841a73693659",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulaire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dd73e59ef61b364",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les mouvements musulmans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4b7e6eb84880e5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Les mouvements musulmans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "258bab5c79def305",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Idéologies arabes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7707934961c194d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e1a51f2f8d2c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa381bbc3a3ee0a8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "553cb8392acd0c73",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "984265c8767f0023",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d70aaf0193b3d058",
+    "type": "split",
+    "children": [
+      {
+        "id": "e64c42a645e9879b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3db090a23ac08f03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Idéologies arabes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59e300a6f30c59b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Idéologies arabes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "02c179959ec21ec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b635363a46b940d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Idéologies arabes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "258bab5c79def305",
+  "lastOpenFiles": [
+    "Les mouvements musulmans.md",
+    "Idéologies arabes.md",
+    "Les mouvements unni.md",
+    "Timeline.md",
+    "Vocabulaire.md"
+  ]
+}
