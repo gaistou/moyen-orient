@@ -111,7 +111,7 @@
 
 1941 : Tentative de l'Irak de se détacher des britanniques en s'alliant avec l'Allemagne. Défaite militaire importante, les britanniques occupent l'Irak jusqu'en 1945.
 
-1941 : Coup d'état en Iran fomenté par l'URSS et les britanniques. Ils forcent le Shah à s'exiler et placent un nouveau Shah plus favorable aux britanniques qui régnera jusqu'à la révolution de 1979. 
+1941 : Coup d'état en Iran fomenté par l'URSS et les britanniques pour empêcher des rapprochements avec l'Allemagne Nazie. Ils forcent le Shah à s'exiler et placent un nouveau Shah plus favorable aux britanniques qui régnera jusqu'à la révolution de 1979. 
 
 1943 : Indépendance du Liban. Le pays est plutôt stable et se développe bien.
 
@@ -131,15 +131,17 @@
 
 1948 : Déclaration d'indépendance d'Israël. La guerre est maintenant entre Palestine et Israël. De nombreux juifs du Moyen-Orient se régugient à Israël. Israël prend progressivement la majorité du territoire. Les palestiniens soutenus par l'Egypte gardent Gaza. Soutenus à l'Est du pays par la Transjordanie, ils forment la Cisjordanie. La Transjordanie se renomme alors Jordanie.
 
-1951 : Les Iranien reprennent le contrôle de leur pétrole, de la main des britanniques. L'argent du pétrole développe le pays très rapidement.
+1951 : L'Iran élit un premier ministre nationaliste qui s'oppose fermement à l'influence britannique : Mohammad Mossadegh. Ce premier ministre reprend contrôle du pétrole iranien de la main des britanniques. L'argent du pétrole développe le pays très rapidement.
 
-1952 : Coup d'Etat de Nasser en Egypte. Nasser a une philosophie panarabiste et veut se débarrasser de l'influence britannique.
+1952 : Coup d'Etat des officiers libres en Egypte. Nasser fait partie du groupe. Le groupe a une philosophie panarabiste et veut se débarrasser de l'influence britannique.
+
+1953 : La CIA et le MI6 orchestrent l'opération Ajax pour faire arrêter le premier ministre iranien Mohammad Mossadegh et redonner des pleins pouvoirs autoritaires au Shah qu'ils avaient mis au pouvoir en 1941.
 
 1956 : Crise du canal de Suez. En réaction à la nationalisation du canal de Suez par l'Egypte ; Israël, France et UK attaquent le canal pour en prendre le contrôle. Les USA et l'URSS menacent d'intervenir pour mettre les attaquants dehors. En conséquence de la crise de Suez, l'Egypte expulse tous les juifs d'Egypte.
 
 1958 : Fusion de l'Egypte et de la Syrie en "République Arabe Unie". Première tentative de panarabisme. Tourne mal car au final la manœuvre ressemble beaucoup à une annexion de la Syrie par l'Egypte. Séparation en 1962. 
 
-1958 : Révolution et coup d'état en Irak par le général Kassem. Le roi est mitraillé, beaucoup de dirigeants tués. Des communistes/baasistes prennent le pouvoir . Fin de l'influence britannique.
+1958 : Révolution et coup d'état en Irak par le général Kassem. Le roi est mitraillé, beaucoup de dirigeants tués. Des communistes/baasistes prennent le pouvoir. Fin de l'influence britannique.
 
 1960 : Découverte de pétrole à Abu Dhabi. L'émirat d'Abu Dhabi se développe très fortement.
 
@@ -173,35 +175,41 @@
 
 1971 : Les émirats de Dubaï et d'Abu Dhabi souhaitent unifier les petits émirats de la zone. Le Qatar et Bahreïn refusent de rejoindre l'union. Les 7 autres émirats forment les Emirats Arabes Unis.
 
+1973 : L'Egypte et la Syrie attaquent par surprise Israël pour reprendre le Sinaï, c'est la Guerre du Kippour. La guerre est violente et dure quelques semaines avant d'être modérée par l'ONU.
+
 1973 : Premier choc pétrolier. Permet à l'Arabie Saoudite de s'enrichir considérablement et de développer le pays très rapidement.
 
 1975 : Les palestiniens prennent trop de place au Liban, créant un vrai "Etat dans l'Etat". Les palestiniens cherchent la merde, c'est le début de la guerre civile au Liban.
 
 1977 : Independence de Djibouti, qui était la dernière colonie européenne en Afrique. Le pouvoir est ensuite disputé entre les deux ethnies principales du pays, les Afars et les Issas. Les Issas prennent le pouvoir.
 
-1978 : Révolution en Iran, le peuple accuse le manque de considération envers les pauvres du gouvernement, et une trop grande orientation vers l'Occident, en particulier UK et USA. Le 8 septembre, c'est le "Vendredi Noir", l'armée iranienne tire sur la foule pour calmer les émeutes, plusieurs milliers de morts.
+1978 : Révolution islamique en Iran, le peuple accuse le manque de considération envers les pauvres du gouvernement, et une trop grande orientation vers l'Occident, en particulier UK et USA. Le 8 septembre, c'est le "Vendredi Noir", l'armée iranienne tire sur la foule pour calmer les émeutes, plusieurs milliers de morts.
 
-1979 : Israël rend le Sinaï à l'Egypte dans le cadre d'un traité de paix.
+1978 : Coup d'état communiste en Afghanistan appelée "Révolution de Saur" soutenu par l'URSS. Leur politique est très progressiste : laïcité, droit des femmes, éducation ...
+
+1979 : Israël rend le Sinaï à l'Egypte dans le cadre d'un traité de paix. Les tensions s'apaisent avec la médiation des USA.
 
 1979 : Crise des otages américains en Iran, 52 diplomates américains sont retenus en otage à l'ambassade américaine. Les américains se mettent à détester l'Iran.
 
-1979 : Les Gardiens de la Révolution prennent le pouvoir en Iran.
+1979 : Khomeini prend le pouvoir en Iran, assisté par Les Gardiens de la Révolution.
 
 1979 : L'Iran souhaite la chute de Saddam Hussein qui est trop "laïque", l'Iran veut imposer l'Islam dans tout le Proche-Orient.
 
-1979 : Révolution islamique en Afghanistan contre un gouvernement "trop progressiste". Géopolitique de guerre froide très compliquée : la révolution est soutenue par les US et mal vue par l'URSS. L'URSS veut que l'Afghanistan prenne le Pakistan mais je comprends pas bien la dynamique. Peut être que les US veulent juste faire chier les russes en les faisant s'embourber dans une guerre de guérilla.
+1979 : Insurrection islamiste en Afghanistan contre un gouvernement "trop progressiste". Géopolitique de guerre froide très compliquée : la révolution est soutenue par les US et mal vue par l'URSS. 
 
-1980 : L'URSS intervient en Afghanistan pour aider le gouvernement à reprendre le pays. C'est la 1ère Guerre d'Afghanistan. L'Afghanistan fait venir des musulmans du monde entier pour les aider à repousser les russes : les "moudjahid" qui forment le début des "jihadistes". L'organisation des moudjahid est géré par les services de renseignement pakistanais et soutenue par les US et l'Arabie Saoudite (financement piloté en partie par Ben Laden). Beaucoup de combats, beaucoup de morts, les russes n'arrivent pas à gérer la guérilla afghane, jusqu'en 1989.
+1980 : L'URSS intervient en Afghanistan pour aider le gouvernement à reprendre le pays. C'est la 1ère Guerre d'Afghanistan. L'Afghanistan fait venir des musulmans du monde entier pour les aider à repousser les russes : les "moudjahid" qui forment le début des "jihadistes". L'organisation des moudjahid est géré par les services de renseignement pakistanais et soutenue par les US et l'Arabie Saoudite (financement piloté en partie par Ben Laden). Beaucoup de combats, beaucoup de morts, les russes n'arrivent pas à gérer la guérilla afghane, jusqu'en 1989. L'objectif des États-Unis est de transformer l'Afghanistan en un "Vietnam soviétique", c'est-à-dire d'embourber l'URSS dans une guerre coûteuse et prolongée.
 
 1980 : L'Irak déclare la guerre à l'Iran. L'Irak veut profiter de l'instabilité politique en Iran pour devenir la première puissance du Proche Orient. De plus l'Irak cherche à prévenir des révoltes chiites qui pourraient être provoquées par le nouveau régime Iranien. L'Irak a le soutien de l'URSS et des USA et de la France et du monde entier en fait globalement. Après une entrée explosive, en 1981 l'Iran reprend le dessus. Puis statuquo jusqu'en 1988.
 
-1982 : Israël en a marre des attaques de palestiniens venant du Liban et décide de pacifier le Liban. C'est l'opération "Paix en Galilée". Israël envahit le Liban, avec le soutien du gouvernement Libanais et expulsent les groupes armés palestiniens du pays, qui partent principalement en Tunisie(?).
+1981 : Assassinat du président égyptien Anouar el-Sadate par des islamistes radicaux. Il était perçu comme un traite par les mouvements islamistes pour avoir sympathisé avec les US et Israël.
+
+1982 : Israël en a marre des attaques de palestiniens venant du Liban et décide de pacifier le Liban. C'est l'opération "Paix en Galilée". Israël envahit le Liban, avec le soutien du plusieurs milices libanaises et expulsent les groupes armés palestiniens du pays, qui partent principalement en Tunisie.
 
 1982 : Sous forte influence iranienne et en suivant l'exemple de la révolution en Iran, un groupe armé chiite se forme au Liban en opposition à l'intervention d'Israël. De plus ces chiites disent être délaissés par le gouvernement Libanais. C'est la formation de Hezbollah. Le Hezbollah va enchainer les actes terroristes contre ses opposants.
 
 1987 : Formation de Al Qaïda par Ben Laden, pour continuer le jihad après la guerre en Afghanistan.
 
-1987 : Première Intifada en Israël. La population palestinienne manifeste, principalement avec des pierres, ce qui provoque de nombreux combats avec les forces de l'ordre. Formation du Hamas comme groupe particulièrement virulent contre Israël. Les manifestations durent jusqu'en 1993.
+1987 : Première Intifada en Israël. La population palestinienne manifeste, principalement avec des pierres, ce qui provoque de nombreux combats avec les forces de l'ordre. Formation du Hamas, une branche particulièrement agressive des Frères Musulmans contre Israël. Les manifestations durent jusqu'en 1993.
 
 1988 : Cessez-le-feu entre l'Iran et l'Irak.
 
@@ -227,7 +235,7 @@
 
 1994 : Paix entre Jordanie et Israël. La Jordanie veut maintenant être un pays neutre et se concentrer sur son développement économique.
 
-1994 : Formation des Talibans, un nouveau groupe d'Afghans qui veulent prendre le pouvoir. Ils reçoivent le soutien du Pakistan qui veut vraiment contrôler le groupe qui finira au pouvoir de l'Afghanistan (raisons : routes de commerce et renvoyer les immigrés Afghans chez eux), et de Ben Laden. Au fil du temps, le groupe est de plus en plus dirigé par Ben Laden.
+1994 : Formation des Talibans, un nouveau groupe d'Afghans qui veulent prendre le pouvoir. Ils reçoivent le soutien du Pakistan qui veut vraiment contrôler le groupe qui finira au pouvoir de l'Afghanistan (raisons : routes de commerce et renvoyer les immigrés Afghans chez eux), et de Ben Laden. Au fil du temps, le groupe est de plus en plus soutenu par Ben Laden.
 
 1996 : Les Talibans prennent le pouvoir en Afghanistan. Mais c'est toujours le zbeul puisque le pouvoir est pas reconnu par plein de gens dans le pays.
 
@@ -235,7 +243,7 @@
 
 2000 : Bachar Al-Assad succède à son père comme président de la Syrie. C'est une "république monarchie".
 
-2000 : Deuxième Intifada, plus violente que la première, avec plusieurs attentats terroristes. S'attenue progressivement jusqu'à aujourd'hui.
+2000 : Deuxième Intifada, plus violente que la première, avec plusieurs attentats terroristes. S'attenue progressivement jusqu'en 2005.
 
 2001 : Attentats du 11 septembres revendiqués par Al Qaïda.
 
@@ -243,13 +251,13 @@
 
 2003 : Les US envahissent l'Irak préventivement, accusant Saddam Hussein de développer des armes de destruction massive et de collaborer avec Al Qaïda en secret. En moins d'1 an ils prennent le contrôle du pays. Honnêtement j'ai l'impression que c'est du pur abus de pouvoir des US. Il y'avait aucune bonne raison tangible et ça ressemble à de la magouille au fond. De 2003 à 2010, les militaires américains dirigent le pays, ce qui provoque beaucoup d'insurrections du peuple et des groupes armés Irakiens.
 
-2004 : Le gouvernement du Yémen réprime violemment les manifestations des Houthis. Le gouvernement pense que les Houthis sont une menace pour l'état. C'est le début de la guerre du Saada. Les combats continuent jusqu'en 2014, date à laquelle les Houthis prennent le contrôle du pays. Les Houthis seraient financé s par l'Iran qui veut étendre l'influence chiite.
+2004 : Le gouvernement du Yémen réprime violemment les manifestations des Houthis. Le gouvernement pense que les Houthis sont une menace pour l'état. C'est le début de la guerre du Saada. Les combats continuent jusqu'en 2014, date à laquelle les Houthis prennent le contrôle du pays. Les Houthis seraient financés par l'Iran qui veut étendre l'influence chiite.
 
 2006 : Formation de l'Etat Islamique en Irak en réaction à l'invasion des Etats-Unis.
 
 2010 : Retrait des troupes américaines en Irak et mise en place d'un nouveau gouvernement, parce qu'ils estiment avoir "nettoyé" le terrorisme, et pour plein de raisons politiques. Mais c'est toujours le zbeul parce que le gouvernement est pas reconnu par plein de gens, en particulier pas par l'Etat Islamique.
 
-2011 : Mort de Ben Laden dans des circonstances très obscures. Aucune trace du corps, aucune photo du corps, aucune preuve d'identité du corps. Bof bof.
+2011 : Mort de Ben Laden dans des circonstances très obscures. Aucune trace du corps, aucune photo du corps, aucune preuve d'identité du corps. Mais d'après ChatGPT c'est solide. Puisque Al Qaïda a reconnu l'assassinat et qu'on a jamais réentendu parler de Ben Laden après 2011.
 
 2011 : Printemps arabe en Egypte, le gouvernement est dissout et l'armée prend le pouvoir jusqu'aux élections.
 
@@ -257,14 +265,18 @@
 
 2012 : Le parti politique des Frères Musulmans prend le pouvoir en Egypte. Mais le pouvoir est très contesté (opinion 50/50 chez les Egyptiens ?).
 
+2013 : Coup d'état du général Sissi en Egypte. Sissi mène une politique très pro-occidentale et souhaite se rapprocher d'Israël. Sissi est détesté par les Egyptiens.
+
 2014 : L'Etat Islamique se la ramène en Syrie, d'abord en soutien aux rebelles, et ensuite comme mouvement indépendant. Depuis 2014 c'est le zbeul.
 
 2014 : L'Etat Islamique prend possession de plusieurs villes Irakiennes. Les US interviennent à nouveau brièvement en Irak. Depuis la guerre civile continue, l'Etat Islamique n'a plus de territoire actuellement.
 
 2014 : Coup d'état des Houthis au Yémen. Intervention de l'Arabie Saoudite au Yémen pour restaurer le gouvernement du Yémen. L'Arabie Saoudite ne veut pas un "poste avancé de l'Iran" à sa frontière. Le combat continue encore aujourd'hui.
 
+2016 : Tentative de coup d'état en Turquie contre Erdogan. La tentative échoue mais provoque une répression de la population.
+
 2017 : Crise du Golfe. Le Qatar est accusé de soutenir des groupes terroristes, ce qui nuit gravement à ses relations avec les EAU et l'Arabie Saoudite en particulier.
 
-2019 : Coup d'état du général Sissi en Egypte. Sissi mène une politique très pro-occidentale et souhaite se rapprocher d'Israël. Sissi est détesté par les Egyptiens.
+2020 : Les accords d'Abraham signent la tolérance de plusieurs pays arabes envers Israël : les Emirats Arabes Unis, le Bahreïn, le Soudan et le Maroc.
 
 2021 : Retrait des troupes américaines en Afghanistan. Les Talibans reprennent le pays.
