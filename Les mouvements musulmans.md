@@ -13,6 +13,7 @@ Les 4 courants reconnus :
   * Hanbalisme : courant traditionnel, majoritaire en Arabie Saoudite.
 
 Salafisme / Wahhabisme : Courants hanbalites très puritains, voire extrémiste. Le Wahhabisme correspondrait à l'application de la philosophie salafiste en Arabie Saoudite, mais les termes sont toujours discutés.
+
 Deobandi : Courant hanbalite très puritain, voire extrémiste, originaire d'Asie. C'est le courant des Talibans.
 
 ## Mouvements Chiites
